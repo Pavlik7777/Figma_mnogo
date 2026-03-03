@@ -1,0 +1,436 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    background-image: url(Photos/Fon1.png);
+    background-repeat: no-repeat;
+    width: 99vw;
+    height: 85vh;
+}
+header{
+    width: 99vw;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    width: 86vw;
+    display: flex;
+    justify-content: space-around;
+}
+.lol{
+    width: 30vw;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.lol ul{
+    width: 20vw;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 16px;
+}
+.lol ul li a {
+    text-decoration: none;
+    color: white;
+}
+.lol li:hover{
+    text-decoration: underline;
+}
+.ks{
+    width: 99vw;
+    height: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ks_container h1{
+    color: white;
+    font-size: 110px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+}
+.ks_container p{
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    height: 8vh;
+}
+.ks_container h2{
+    color: white;
+    font-size: 40px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+}
+.many{
+    width: 15vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.girls{
+    background-color: #202020;
+}
+.gigi{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+.gigi_container{
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+.foto{
+    width: 580px;
+    height: 690px;
+}
+.golem{
+    display: flex;
+    justify-content: start;
+}
+.golem_container{
+    width: 1000px;
+    height: 540px;
+    background-color: #262D30;
+    position: relative;
+    right: 5vh;
+}
+.polo{
+    width: 35vw;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    font-weight: 600;
+}
+.figs{
+    width: 52vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.figs_container{
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 46vw;
+    height: 10vh;
+}
+.hopo{
+    display: flex;
+    justify-content: space-around;
+}
+.our{
+    position: relative;
+    bottom: 75vh;
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+}
+.bublik{
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+}
+.bublik_container{
+    width: 44vw;
+    display: flex;
+    justify-content: center;
+}
+.one{
+    width: 25vw;
+    height: 15vh;
+    color: white;
+    position: relative;
+    bottom: 70vh;
+}
+.one h1{
+    color: #FFFFFF1A;
+    font-size: 90px;
+    font-weight: 700;
+}
+.one h2{
+    font-size: 25px;
+    height: 7vh;
+    font-weight: 400;
+}
+.one p{
+    font-size: 18px;
+    width: 19.5vw;
+    font-weight: 300;
+}
+.jora{
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+}
+.jora_container{
+    width: 44vw;
+    display: flex;
+    justify-content: center;
+}
+.two{
+    width: 25vw;
+    height: 15vh;
+    color: white;
+    position: relative;
+    bottom: 50vh;
+}
+.two h1{
+    color: #FFFFFF1A;
+    font-size: 90px;
+    font-weight: 700;
+}
+.two h2{
+    font-size: 25px;
+    height: 5vh;
+    font-weight: 400;
+}
+.two p{
+    font-size: 18px;
+    width: 19.5vw;
+    font-weight: 300;
+}
+.gray{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 10vw;
+    bottom: 30vh;
+    width: 628px;
+    height: 208px;
+    background-color: #262D30;
+    color: white;
+}
+.seven{
+    position: relative;
+    top: 8vh;
+    display: flex;
+    justify-content: space-around;
+}
+.seven h1{
+    position: relative;
+    left: 1vw;
+    font-size: 50px;
+    font-weight: 400;
+}
+.seven p{
+    width: 170px;
+    height: 65px;
+    position: relative;
+    left: 2vw;
+    font-size: 20px;
+    font-weight: 400;
+}
+.fift{
+    position: relative;
+    top: 8vh;
+    display: flex;
+    justify-content: space-around;
+}
+.fift h1{
+    position: relative;
+    left: 1vw;
+    font-size: 50px;
+    font-weight: 400;
+}
+.fift p{
+    width: 170px;
+    height: 65px;
+    position: relative;
+    left: 2vw;
+    font-size: 20px;
+    font-weight: 400;
+}
+.port{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 6vh;
+    color: white;
+    font-size: 35px;
+    font-weight: 400;
+}
+.jk_container{
+    display: flex;
+    justify-content: space-around;
+}
+.Dolina1{
+    color: white;
+    width: 959px;
+    height: 638px;
+    background-image: url(Photos/portfolio-1.png);
+    background-repeat: no-repeat;
+}
+.Dolina1 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 638px;
+    font-size: 36px;
+    font-weight: 300;
+}
+.Vinograd1{
+    color: white;
+    width: 959px;
+    height: 638px;
+    background-image: url(Photos/portfolio-2.jpg);
+    background-repeat: no-repeat;
+}
+.Vinograd1 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 638px;
+    font-size: 36px;
+    font-weight: 300;
+}
+.jk2{
+    display: flex;
+    justify-content: space-around;
+}
+.Dolina2{
+    color: white;
+    width: 959px;
+    height: 638px;
+    background-image: url(Photos/portfolio-4.jpg);
+    background-repeat: no-repeat;
+}
+.Dolina2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 638px;
+    font-size: 36px;
+    font-weight: 300;
+}
+.Vinograd2{
+    color: white;
+    width: 960px;
+    height: 638px;
+    background-image: url(Photos/portfolio-3.jpg);
+    background-repeat: no-repeat;
+}
+.Vinograd2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 638px;
+    font-size: 36px;
+    font-weight: 300;
+}
+.project{
+    width: 99.2vw;
+    height: 15vh;
+    background-color: #202020;
+}
+.project_container{
+    height: 11vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.project_container button{
+    display: flex;
+    justify-content: space-around;
+    width: 359px;
+    height: 58px;
+    background-color: #202020;
+    border:1px solid #FFFFFF;
+}
+.project_container button p{
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+.contact{
+    background-color: #202020;
+}
+.contact_container{
+    width: 99vw;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fofo p{
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+}
+.last{
+    width: 99vw;
+    display: flex;
+    justify-content: space-around;
+}
+.ifofo{
+    height: 42vh;
+    display: flex;
+    align-items: end;
+}
+.info h1{
+    font-size: 28px;
+    color: white;
+    font-weight: 400;
+    height: 8vh;
+}
+.info h2{
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    height: 5vh;
+}
+.info h3{
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    height: 5vh;
+}
+.info .number1{
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    height: 5vh;
+}
+.info .number2{
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+    height: 5vh;
+}
+.didji{
+    width: 99vw;
+    height: 28vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.didji p{
+    color: white;
+    height: 5vh;
+    font-size: 25px;
+    font-weight: 400;
+}

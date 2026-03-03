@@ -1,0 +1,385 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bobo {
+    width: 99vw;
+}
+.bobo_container {
+    display: flex;
+    justify-content: space-around;
+}
+.mop {
+    width: 820px;
+    height: 1390px;
+    background-image: url(Photo/City\ _\ Kitchen-Living-Hall\ _\ 0006_\ 1.png);
+}
+.mop p {
+    position: relative;
+    top: 60vh;
+    left: 7.5vw;
+    color: white;
+    font-size: 70px;
+    font-weight: 500;
+}
+.lilo {
+    width: 1200px;
+    height: 1390px;
+    background-color: #202020;
+}
+nav {
+    width: 35vw;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lilo_container {
+    width: 50vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lol {
+    width: 30vw;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.lol ul {
+    width: 20vw;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 16px;
+}
+.lol ul li a {
+    text-decoration: none;
+    color: white;
+}
+.lol li:hover {
+    text-decoration: underline;
+}
+.roro {
+    display: flex;
+    justify-content: center;
+}
+.riga {
+    width: 42vw;
+    display: flex;
+    justify-content: space-around;
+}
+.boo1 {
+    position: relative;
+    left: 10vh;
+    top: 5vh;
+}
+.stages {
+    position: relative;
+    top: 5vh;
+}
+.boo1_container {
+    width: 25vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.boo1_container h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #FFFFFF1A;
+}
+.boo1_container p {
+    width: 16vw;
+    font-size: 25px;
+    font-weight: 400;
+    position: relative;
+    top: 4vh;
+}
+.hogo p {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    height: 8vh;
+}
+.hogo h2 {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+}
+.boo2 {
+    position: relative;
+    left: 10vh;
+    top: 10vh;
+}
+.boo2_container {
+    width: 35vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.boo2_container h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #FFFFFF1A;
+}
+.boo2_container p {
+    width: 25vw;
+    font-size: 25px;
+    font-weight: 400;
+    position: relative;
+    top: 4vh;
+}
+.hogo2 p {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    height: 8vh;
+}
+.boo3 {
+    position: relative;
+    left: 10vh;
+    top: 10vh;
+}
+.boo3_container {
+    width: 35vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.boo3_container h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #FFFFFF1A;
+}
+.boo3_container p {
+    width: 25vw;
+    font-size: 25px;
+    font-weight: 400;
+    position: relative;
+    top: 4vh;
+}
+.hogo3 p {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    height: 8vh;
+}
+.boo4 {
+    position: relative;
+    left: 10vh;
+    top: 10vh;
+}
+.boo4_container {
+    width: 35vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.boo4_container h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #FFFFFF1A;
+}
+.boo4_container p {
+    width: 25vw;
+    font-size: 25px;
+    font-weight: 400;
+    position: relative;
+    top: 4vh;
+}
+.hogo4 p {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    height: 8vh;
+}
+.boo5{
+    position: relative;
+    left: 10vh;
+    top: 15vh;
+}
+.boo5_container {
+    width: 35vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.boo5_container h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #FFFFFF1A;
+}
+.boo5_container p {
+    width: 25vw;
+    font-size: 25px;
+    font-weight: 400;
+    position: relative;
+    top: 4vh;
+}
+.hogo5 p {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    height: 8vh;
+}
+.boo6{
+    position: relative;
+    left: 10vh;
+    top: 15vh;
+}
+.boo6_container {
+    width: 35vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.boo6_container h1 {
+    font-size: 90px;
+    font-weight: 700;
+    color: #FFFFFF1A;
+}
+.boo6_container p {
+    width: 25vw;
+    font-size: 25px;
+    font-weight: 400;
+    position: relative;
+    top: 4vh;
+}
+.hogo6 p {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    height: 8vh;
+}
+.single{
+    width: 1085px;
+    height: 1125px;
+    background-color: #202020;
+    position: relative;
+}
+.real{
+    width: 820px;
+    height:1125px ;
+    background-image: url(Photo/number2.png);
+}
+.bam {
+    display: flex;
+    justify-content: center;
+}
+.bam_container{
+    width: 99vw;
+    display: flex;
+    justify-content: space-around;
+}
+.single h1{
+    color: white;
+    font-size: 40px;
+    font-weight:300;
+    position: relative;
+    top: 29vh;
+    left: 18vw;
+}
+.single img{
+    position: relative;
+    top: 29vh;
+    left: 18vw;
+    width: 16vw;
+}
+.single h2{
+    position: relative;
+    top: 32vh;
+    left: 10vw;
+    width: 36vw;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+.single h3{
+    position: relative;
+    top: 34vh;
+    left: 10vw;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+.single .poka{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    top: 36vh;
+    left: 10vw;
+    width: 34vw;
+}
+.polo p{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    top: 38vh;
+    left: 10vw;
+    width: 32vw;
+}
+.nadz{
+    position: relative;
+    top: 50vh;
+    left: 15vw;
+    width: 400px;
+    height: 40px;
+    background-color: #202020;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    border:  1px solid white;
+}
+.clop{
+    background-color: #202020;
+    height: 60vh;
+}
+.foma{
+    width: 99vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foma_container p{
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+}
+.moc{
+    width: 99vw;
+    display: flex;
+    justify-content: space-around;
+}
+.jip h1{
+    color: white;
+    font-size: 25px;
+    font-weight:400;
+    height: 8vh;
+}
+.jip h2{
+    color: white;
+    font-size: 25px;
+    font-weight:400;
+    height: 5vh;
+}
+.jip p{
+    color: white;
+    font-size: 25px;
+    font-weight:400;
+    height: 5vh;
+}
+.dop p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    height: 8vh;
+}
