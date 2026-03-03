@@ -265,6 +265,15 @@ nav {
     height:1125px ;
     background-image: url(Photo/number2.png);
 }
+.real p{
+    position: relative;
+    top: 58vh;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 70px;
+    font-weight: 500;
+}
 .bam {
     display: flex;
     justify-content: center;
